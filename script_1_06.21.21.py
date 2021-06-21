@@ -5,6 +5,4 @@ Created on Mon Jun 21 11:38:10 2021
 
 @author: annalandi
 """
-print('Hello Wolrd')
-
-
+print('Hello World')
